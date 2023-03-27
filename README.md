@@ -1,1 +1,5 @@
-# logistic-regression-from-scratch
+# Machine Learning from Scratch
+
+- Logistic Regression
+- SVM
+  - Distance Based
